@@ -1,0 +1,28 @@
+Illustrator things :
+
+
+- To make a shape inside another shape and make it transparent 
+> select all the layers 
+  > Window > pathfinder > Minus the fonts
+
+- To enable transparent window 
+> ctrl + shift + D
+
+- To make a shape stay on same stroke size while resizing
+> Select the shape > Transform > Check/uncheck scale strokes and effects
+
+-To create outline and path from a text 
+> Select the text or the alphabet > (Ctrl+Shift+O) 
+
+-To create outline or path from a image of text or anything
+> Select the subject > Trace image 
+                     > Select option with neccessities
+                     > View : Select outlines
+                     > Expand
+
+-To make a lot of copies of a text or a design
+> Hold Alt + any directional arrow key to create the copy
+
+
+-To fit the artboard according to the page
+> Ctrl + 0

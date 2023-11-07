@@ -1,0 +1,7 @@
+Bootstrap: 
+
+CDN - Content Delivery Network
+
+To connect Bootstrap with html file - go to "bootstrap.com" 
+                                      > Copy the CSS and JS CDN links
+                                      > Paste it in the head section of the desired HTML file
